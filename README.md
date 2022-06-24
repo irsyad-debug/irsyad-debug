@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @irsyad-debug
+- 👋 Hi, I’m Muhammad Irsyad Bin Sha'ari
 - 👀 I’m interested in web development in PHP/laravel
-- 🌱 I’m currently learning Laravel framework.
+- 🌱 I’m currently doing Laravel development in UNISEL.
 - 💞️ I’m looking to collaborate on mobile framework
 - 📫 How to reach me irsyadshaari81@gmail.com
 
